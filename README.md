@@ -1,10 +1,10 @@
 ## Project 2
 
-I used the CLI to create and work with a git repository on my system.
+I used the Command Line Interface (CLI) to create and work with a git repository on my system, I also created a .gitignore file.
 
-I created a .gitignore file.
+I created and executed Javascript files where I refactored the last project's code and practiced function expressions, using git to save my progress.
 
-I created and executed Javascript files where I refactored the last project's code and practiced function expressions, using git to save my progress:
+### Primary concepts: using git via CLI and Visual Studio Code (VSCode) Source Control, writing and executing non-web server Node.js JavaScript code, refactoring JavaScript code
 
 #### p2-random.js:
 ```javascript
